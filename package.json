@@ -1,5 +1,5 @@
 {
-  "name": "furbook",
+  "name": "agencybackend",
   "private": true,
   "main": "app/index.js",
   "scripts": {
